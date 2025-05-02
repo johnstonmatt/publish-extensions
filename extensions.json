@@ -36,6 +36,7 @@
   "aki77.rails-db-schema": {
     "repository": "https://github.com/aki77/vscode-rails-db-schema"
   },
+  {
   "albert.tabout": {
     "repository": "https://github.com/albertromkes/tabout"
   },
@@ -1193,6 +1194,9 @@
   },
   "Pilleye.dusk-theme": {
     "repository": "https://github.com/pilleye/dusk-theme"
+  },
+  "polyseam.invisaline": {
+    "repository": "https://github.com/polyseam/invisaline"
   },
   "PowerQuery.vscode-powerquery": {
     "repository": "https://github.com/microsoft/vscode-powerquery"
