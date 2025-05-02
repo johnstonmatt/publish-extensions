@@ -1194,6 +1194,9 @@
   "Pilleye.dusk-theme": {
     "repository": "https://github.com/pilleye/dusk-theme"
   },
+  "Polyseam.invisaline": {
+    "repository": "https://github.com/polyseam/invisaline"
+  },
   "PowerQuery.vscode-powerquery": {
     "repository": "https://github.com/microsoft/vscode-powerquery"
   },
